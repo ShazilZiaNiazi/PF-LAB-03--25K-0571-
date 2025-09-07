@@ -1,3 +1,3 @@
-**Shazil Zia**
-BS CS
-I play chess.
+**Shazil Zia**\n
+BS CS\n
+I play chess.\n
