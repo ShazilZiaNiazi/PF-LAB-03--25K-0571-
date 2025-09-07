@@ -9,6 +9,8 @@
   - Mam Sobia Iftikhar
   - Mam Aneesa Nawaz
   - Mam Khushboo
-  - Sir Abdul Rahim 
-**Mam Saira Ayub teaches us Programming Fundamentals every monday**<br> 
+  - Sir Abdul Rahim
+
+**Mam Saira Ayub teaches us Programming Fundamentals every monday**<br>
 *We have to come to the university four days a week*
+
