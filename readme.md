@@ -10,7 +10,5 @@
   - Mam Aneesa Nawaz
   - Mam Khushboo
   - Sir Abdul Rahim
-<br>
 **Mam Saira Ayub teaches us Programming Fundamentals every monday**
-<br>
 *We have to come to the university four days a week*
